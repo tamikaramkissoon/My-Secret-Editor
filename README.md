@@ -7,6 +7,7 @@
 - [Description](#description)
 - [Lanaguages tools and technologies](#lanaguages-tools-and-technologies)
 - [Project](#project)
+- [Acknowledgement](#acknowledgement)
 - [Author Info](#author-info)
 
 ---
@@ -52,6 +53,11 @@ The my secret editor program uses the C++ programming language to generate a gra
 
 ## Project
 ![Screenshot (631)](https://user-images.githubusercontent.com/77646306/124192327-18706980-da93-11eb-9ffa-154e7f7a227a.png)
+
+---
+
+## Acknowledgement
+* COMP1602 - Assignment
 
 ---
 
