@@ -5,7 +5,7 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Description](#description)
-- [Lanaguages tools and technologies](#lanaguages-tools-and-technologies)
+- [Languages tools and technologies](#languages-tools-and-technologies)
 - [Project](#project)
 - [Acknowledgement](#acknowledgement)
 - [Author Info](#author-info)
@@ -45,7 +45,7 @@ The my secret editor program uses the C++ programming language to generate a gra
 
 ---
 
-## Lanaguages tools and technologies
+## Languages tools and technologies
 * C++
 * Data structures
 
